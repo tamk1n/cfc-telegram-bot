@@ -109,12 +109,16 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
         [
             # InlineKeyboardButton("📺 Live Stream", callback_data="live"),
             InlineKeyboardButton("ℹ️ About", callback_data="about")
+        ],
+        [
+            InlineKeyboardButton("☕ Buy Me a Coffee", url="https://buymeacoffee.com/tamkin")
         ]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     welcome_msg = f"**Hello, {user.first_name}!**\n\n"
     welcome_msg += "What would you like to see?\n\n"
+    welcome_msg += "💙 *Support the bot development with a coffee!* ☕"
     
     await update.message.reply_text(welcome_msg, reply_markup=reply_markup, parse_mode='Markdown')
     return START_ROUTES
@@ -241,6 +245,9 @@ async def back_to_main(update: Update, context: ContextTypes.DEFAULT_TYPE) -> in
         [
             # InlineKeyboardButton("📺 Live Stream", callback_data="live"),
             InlineKeyboardButton("ℹ️ About", callback_data="about")
+        ],
+        [
+            InlineKeyboardButton("☕ Buy Me a Coffee", url="https://buymeacoffee.com/tamkin")
         ]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
