@@ -1,0 +1,2152 @@
+{
+  "timestamp": "2025-08-20T17:00:20.830520",
+  "data": {
+    "items": [
+      {
+        "id": "cc33645f-e2f8-4433-89d4-10e0b446dbf5",
+        "month": 8,
+        "year": 2025,
+        "monthName": "August",
+        "items": [
+          {
+            "id": "75sYFug7t0EJh2WYUFwZ4b",
+            "optaId": "2561914",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "West Ham United",
+                "clubShortName": "West Ham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/735.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": false,
+              "postponed": false
+            },
+            "venue": "London Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Fri 22 Aug 2025",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": false,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "ed141db6-60ff-4546-8be5-f4cb57986726",
+                "title": "Match Centre",
+                "url": "/en/match/west-ham-united-vs-chelsea-english-premier-league-2025-08-22",
+                "isExternal": false,
+                "isActive": false
+              },
+              "ticketsLink": {
+                "id": "101c1ffc-2bbc-4750-814d-b9a44f0391fd",
+                "title": "Tickets",
+                "url": "https://www.chelseafc.com/en/tickets/mens-tickets",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "broadcasterLogo": {
+              "id": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "title": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "description": "",
+              "credit": "",
+              "file": {
+                "fileName": "broadcaster-logos/2023/broadcaster_sky_sports",
+                "contentType": "image",
+                "type": "upload",
+                "format": "png",
+                "url": "http://img.chelseafc.com/image/upload/v1698327275/broadcaster-logos/2023/broadcaster_sky_sports.png",
+                "urlObject": {
+                  "baseUrl": "https://res.cloudinary.com/",
+                  "cloudName": "chelsea-production",
+                  "resourceType": "image",
+                  "type": "upload",
+                  "publicId": "broadcaster-logos/2023/broadcaster_sky_sports"
+                },
+                "details": {
+                  "size": 15020,
+                  "transformations": "",
+                  "image": {
+                    "width": 312,
+                    "height": 76
+                  }
+                }
+              },
+              "coordinates": []
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "5nr7y4ujuXKztdBMy5eon3",
+            "optaId": "2561917",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Fulham",
+                "clubShortName": "Fulham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/654.png",
+                "score": 0
+              },
+              "kickoffTime": "12:30",
+              "tbc": false,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 30 Aug 2025",
+            "kickoffTime": "12:30",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": false,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "04290041-f947-49e6-b9f5-f6b04affc433",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-fulham-english-premier-league-2025-08-30",
+                "isExternal": false,
+                "isActive": false
+              },
+              "ticketsLink": {
+                "id": "a3b9ab7f-cc01-4338-b865-d076aa4b1f5f",
+                "title": "Tickets",
+                "url": "https://www.chelseafc.com/en/tickets/mens-tickets",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "broadcasterLogo": {
+              "id": "logos/broadcaster-logos/TNT_Sport_logo",
+              "title": "logos/broadcaster-logos/TNT_Sport_logo",
+              "description": "",
+              "credit": "",
+              "file": {
+                "fileName": "logos/broadcaster-logos/TNT_Sport_logo",
+                "contentType": "image",
+                "type": "upload",
+                "format": "png",
+                "url": "http://img.chelseafc.com/image/upload/v1752147839/logos/broadcaster-logos/TNT_Sport_logo.png",
+                "urlObject": {
+                  "baseUrl": "https://res.cloudinary.com/",
+                  "cloudName": "chelsea-production",
+                  "resourceType": "image",
+                  "type": "upload",
+                  "publicId": "logos/broadcaster-logos/TNT_Sport_logo"
+                },
+                "details": {
+                  "size": 8538,
+                  "transformations": "",
+                  "image": {
+                    "width": 300,
+                    "height": 94
+                  }
+                }
+              },
+              "coordinates": []
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "d340ce2b-3241-46f4-af40-bc6377fe9bec",
+        "month": 9,
+        "year": 2025,
+        "monthName": "September",
+        "items": [
+          {
+            "id": "pYCmhLbaCmEHtM2XO9gVh",
+            "optaId": "2561927",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Brentford",
+                "clubShortName": "Brentford",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/617.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": false,
+              "postponed": false
+            },
+            "venue": "Gtech Community Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 13 Sept 2025",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": false,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "d89203ae-41ba-4f19-94c5-eacd45793dab",
+                "title": "Match Centre",
+                "url": "/en/match/brentford-vs-chelsea-english-premier-league-2025-09-13",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "broadcasterLogo": {
+              "id": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "title": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "description": "",
+              "credit": "",
+              "file": {
+                "fileName": "broadcaster-logos/2023/broadcaster_sky_sports",
+                "contentType": "image",
+                "type": "upload",
+                "format": "png",
+                "url": "http://img.chelseafc.com/image/upload/v1698327275/broadcaster-logos/2023/broadcaster_sky_sports.png",
+                "urlObject": {
+                  "baseUrl": "https://res.cloudinary.com/",
+                  "cloudName": "chelsea-production",
+                  "resourceType": "image",
+                  "type": "upload",
+                  "publicId": "broadcaster-logos/2023/broadcaster_sky_sports"
+                },
+                "details": {
+                  "size": 15020,
+                  "transformations": "",
+                  "image": {
+                    "width": 312,
+                    "height": 76
+                  }
+                }
+              },
+              "coordinates": []
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "2QoTdefs128PmlZjL8TQ7E",
+            "optaId": "2561941",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Manchester United",
+                "clubShortName": "Man Utd",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/680.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "17:30",
+              "tbc": false,
+              "postponed": false
+            },
+            "venue": "Old Trafford",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 20 Sept 2025",
+            "kickoffTime": "17:30",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": false,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "01844e7a-1c10-4386-8a51-0ae00b6a588f",
+                "title": "Match Centre",
+                "url": "/en/match/manchester-united-vs-chelsea-english-premier-league-2025-09-20",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "broadcasterLogo": {
+              "id": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "title": "broadcaster-logos/2023/broadcaster_sky_sports",
+              "description": "",
+              "credit": "",
+              "file": {
+                "fileName": "broadcaster-logos/2023/broadcaster_sky_sports",
+                "contentType": "image",
+                "type": "upload",
+                "format": "png",
+                "url": "http://img.chelseafc.com/image/upload/v1698327275/broadcaster-logos/2023/broadcaster_sky_sports.png",
+                "urlObject": {
+                  "baseUrl": "https://res.cloudinary.com/",
+                  "cloudName": "chelsea-production",
+                  "resourceType": "image",
+                  "type": "upload",
+                  "publicId": "broadcaster-logos/2023/broadcaster_sky_sports"
+                },
+                "details": {
+                  "size": 15020,
+                  "transformations": "",
+                  "image": {
+                    "width": 312,
+                    "height": 76
+                  }
+                }
+              },
+              "coordinates": []
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "3kxDztSD9TrLbyB9TX9Ae9",
+            "optaId": "2561947",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Brighton & Hove Albion",
+                "clubShortName": "Brighton",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/618.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": false,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 27 Sept 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": false,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "b96fdb0c-8d4a-4f21-bc4f-df6e7b2aec9a",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-brighton-and-hove-albion-english-premier-league-2025-09-27",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "3be70128-5cc6-40f5-b4c7-a019fc80c55b",
+        "month": 10,
+        "year": 2025,
+        "monthName": "October",
+        "items": [
+          {
+            "id": "6r4S0Vg57YYEInZGwU4Qa4",
+            "optaId": "2561959",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Liverpool",
+                "clubShortName": "Liverpool",
+                "clubCrestUrl": "https://img.chelseafc.com/image/upload/v1730218742/editorial/opposition%20club%20badges/Liverpool_badge_2024-25_square_2_500x500.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 04 Oct 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "c101e421-3792-4550-8019-edccea6ce7b7",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-liverpool-english-premier-league-2025-10-04",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "3kqfnGSostPIkjXmf4ReLK",
+            "optaId": "2561971",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Nottingham Forest",
+                "clubShortName": "Nott'm Forest",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/17.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "The City Ground",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 18 Oct 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "1942eefd-360c-4836-b809-c675952e9581",
+                "title": "Match Centre",
+                "url": "/en/match/nottingham-forest-vs-chelsea-english-premier-league-2025-10-18",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "1jjYZom9dRzoKfjCvuyycd",
+            "optaId": "2561979",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Sunderland",
+                "clubShortName": "Sunderland",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/722.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 25 Oct 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "8d4d0955-4d09-4713-a3fb-5d745e6ac856",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-sunderland-english-premier-league-2025-10-25",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "556517a1-a59a-4948-9a64-d9ee290b0f95",
+        "month": 11,
+        "year": 2025,
+        "monthName": "November",
+        "items": [
+          {
+            "id": "2ZS4PZiwY7gStLfizSQPqu",
+            "optaId": "2561993",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Tottenham Hotspur",
+                "clubShortName": "Tottenham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/728.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Tottenham Hotspur Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 01 Nov 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "2114a79a-7fd9-413c-8cd5-72395e99fc9b",
+                "title": "Match Centre",
+                "url": "/en/match/tottenham-hotspur-vs-chelsea-english-premier-league-2025-11-01",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "3Ajr2sedJZd50Ae2UKA2yW",
+            "optaId": "2561997",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Wolverhampton Wanderers",
+                "clubShortName": "Wolves",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/740.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 08 Nov 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "a5f46c58-36b9-4dfb-a8e8-3c3cfc091ad7",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-wolverhampton-wanderers-english-premier-league-2025-11-08",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "15Ivvt9qvNJqAYT5tXSm8G",
+            "optaId": "2562008",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Burnley",
+                "clubShortName": "Burnley",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/622.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Turf Moor",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 22 Nov 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "159b8dcc-fd6f-4686-94d8-e198e9339d22",
+                "title": "Match Centre",
+                "url": "/en/match/burnley-vs-chelsea-english-premier-league-2025-11-22",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "4urAheIs3eURpUBdDNIv7W",
+            "optaId": "2562017",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Arsenal",
+                "clubShortName": "Arsenal",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/602.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 29 Nov 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "821d5d45-f7da-4249-8186-d2add4b5b020",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-arsenal-english-premier-league-2025-11-29",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "8059ef09-56c0-4018-9e39-0c59a8519ff4",
+        "month": 12,
+        "year": 2025,
+        "monthName": "December",
+        "items": [
+          {
+            "id": "7ES92qwpk5DqfjlAcWrSiQ",
+            "optaId": "2562030",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Leeds United",
+                "clubShortName": "Leeds",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/671.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Elland Road",
+            "competition": "Premier League",
+            "kickoffDate": "Wed 03 Dec 2025",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "37fea2ff-cc55-4346-a2fa-34e029bdc524",
+                "title": "Match Centre",
+                "url": "/en/match/leeds-united-vs-chelsea-english-premier-league-2025-12-03",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "5sfrCoo1Jjr3zZkNjiavYg",
+            "optaId": "2562035",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Bournemouth",
+                "clubShortName": "Bournemouth",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/600.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Vitality Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 06 Dec 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "c5571e6b-ae96-4e72-9545-3dfdea56d2db",
+                "title": "Match Centre",
+                "url": "/en/match/bournemouth-vs-chelsea-english-premier-league-2025-12-06",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "7ILuxB3OuQgjtRfYeqjlaW",
+            "optaId": "2562048",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Everton",
+                "clubShortName": "Everton",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/650.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 13 Dec 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "578fed59-cc2a-4ed5-b00e-63344736d5c0",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-everton-english-premier-league-2025-12-13",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "3ebliwjDL6oWLQRXzwemzz",
+            "optaId": "2562062",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Newcastle United",
+                "clubShortName": "Newcastle",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/688.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "St. James' Park",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 20 Dec 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "8e05339b-7794-4c4f-b537-52371f4030b2",
+                "title": "Match Centre",
+                "url": "/en/match/newcastle-united-vs-chelsea-english-premier-league-2025-12-20",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "5mt25NYs5Vf3M8PEJucr3W",
+            "optaId": "2562068",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Aston Villa",
+                "clubShortName": "Aston Villa",
+                "clubCrestUrl": "https://img.chelseafc.com/image/upload/v1718019788/editorial/opposition%20club%20badges/Aston_Villa_badge_2024.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 27 Dec 2025",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "72d9b4db-5f0b-4578-881d-f0d5635a5a4a",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-aston-villa-english-premier-league-2025-12-27",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "1Wan6dL5tjr23GDxcjPyj0",
+            "optaId": "2562078",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Bournemouth",
+                "clubShortName": "Bournemouth",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/600.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Tue 30 Dec 2025",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "a4b50a19-94b2-4cd0-8091-15780170f09b",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-bournemouth-english-premier-league-2025-12-30",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "c7802f86-0ce4-4386-9692-da101d00417a",
+        "month": 1,
+        "year": 2026,
+        "monthName": "January",
+        "items": [
+          {
+            "id": "4bVORO7MCuAbZdlxsmT1kW",
+            "optaId": "2562091",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Manchester City",
+                "clubShortName": "Man City",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/679.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Etihad Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 03 Jan 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "11238f5c-736b-4a8e-a4e1-f9eec9bd1230",
+                "title": "Match Centre",
+                "url": "/en/match/manchester-city-vs-chelsea-english-premier-league-2026-01-03",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "1K5dc5U6Kv1BdNWaL30VCa",
+            "optaId": "2562101",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Fulham",
+                "clubShortName": "Fulham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/654.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Craven Cottage",
+            "competition": "Premier League",
+            "kickoffDate": "Wed 07 Jan 2026",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "96e03e1c-1217-4c78-9ab7-3804f37ab113",
+                "title": "Match Centre",
+                "url": "/en/match/fulham-vs-chelsea-english-premier-league-2026-01-07",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "4KF13T8w3F6E0nwc90Y0I1",
+            "optaId": "2562107",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Brentford",
+                "clubShortName": "Brentford",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/617.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 17 Jan 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "9fb8ea55-e983-4e88-8a51-ac1c03266ab2",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-brentford-english-premier-league-2026-01-17",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "7GkHFXSMwfm0uBXd5cToC0",
+            "optaId": "2562119",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Crystal Palace",
+                "clubShortName": "Crystal Palace",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/642.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Selhurst Park",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 24 Jan 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "b1203207-a1b5-47f8-8fad-4f670d069a6c",
+                "title": "Match Centre",
+                "url": "/en/match/crystal-palace-vs-chelsea-english-premier-league-2026-01-24",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "5QAQKNf1m7ktJRP6Yv56vX",
+            "optaId": "2562127",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "West Ham United",
+                "clubShortName": "West Ham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/735.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 31 Jan 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "93d3f498-2a28-41a0-ae3a-605c3827dd06",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-west-ham-united-english-premier-league-2026-01-31",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "d27f735d-f192-45e9-a700-88e3bb010ea3",
+        "month": 2,
+        "year": 2026,
+        "monthName": "February",
+        "items": [
+          {
+            "id": "54ULyyX51tuKsdxCO8uksy",
+            "optaId": "2562144",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Wolverhampton Wanderers",
+                "clubShortName": "Wolves",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/740.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Molineux Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 07 Feb 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "11703b8d-5a1e-41d5-a5d9-61773da849f8",
+                "title": "Match Centre",
+                "url": "/en/match/wolverhampton-wanderers-vs-chelsea-english-premier-league-2026-02-07",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "2dG4TxQwA201rbLT4RVvkz",
+            "optaId": "2562147",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Leeds United",
+                "clubShortName": "Leeds",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/671.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Wed 11 Feb 2026",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "27e90de7-eab5-451d-b39b-486e02a5657b",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-leeds-united-english-premier-league-2026-02-11",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "4KfxehUEA6dPhgo1fNhWME",
+            "optaId": "2562157",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Burnley",
+                "clubShortName": "Burnley",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/622.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 21 Feb 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "7c409710-875a-4dc7-965b-0f06187c4877",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-burnley-english-premier-league-2026-02-21",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "64IggVo3cA8UlyPcRgVRIu",
+            "optaId": "2562166",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Arsenal",
+                "clubShortName": "Arsenal",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/602.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Emirates Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 28 Feb 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "6408776b-fbb6-4715-b260-f3710ce1ba46",
+                "title": "Match Centre",
+                "url": "/en/match/arsenal-vs-chelsea-english-premier-league-2026-02-28",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "e3ebcc8b-2d82-40f0-9fc3-50bce0b2301b",
+        "month": 3,
+        "year": 2026,
+        "monthName": "March",
+        "items": [
+          {
+            "id": "7LOT9almEiNCkBy4aGh3fF",
+            "optaId": "2562176",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Aston Villa",
+                "clubShortName": "Aston Villa",
+                "clubCrestUrl": "https://img.chelseafc.com/image/upload/v1718019788/editorial/opposition%20club%20badges/Aston_Villa_badge_2024.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "20:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Villa Park",
+            "competition": "Premier League",
+            "kickoffDate": "Wed 04 Mar 2026",
+            "kickoffTime": "20:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "7086577d-6686-4868-b3e1-0a3d1f4cb2b3",
+                "title": "Match Centre",
+                "url": "/en/match/aston-villa-vs-chelsea-english-premier-league-2026-03-04",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "7cmoIuMv5nmeNq034V5hN8",
+            "optaId": "2562188",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Newcastle United",
+                "clubShortName": "Newcastle",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/688.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 14 Mar 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "f3313646-81d8-4098-8241-79251f1e4472",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-newcastle-united-english-premier-league-2026-03-14",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "4PaQqkJreQPXQfFeo7ixo4",
+            "optaId": "2562198",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Everton",
+                "clubShortName": "Everton",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/650.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Hill Dickinson Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 21 Mar 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "5899ef2b-ef1c-4703-a5a2-3de422a8b86d",
+                "title": "Match Centre",
+                "url": "/en/match/everton-vs-chelsea-english-premier-league-2026-03-21",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "8e3713db-8a6b-4cd0-a53b-5ef4517fda46",
+        "month": 4,
+        "year": 2026,
+        "monthName": "April",
+        "items": [
+          {
+            "id": "27yHzBCY7p3CBajKJjFA0X",
+            "optaId": "2562208",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Manchester City",
+                "clubShortName": "Man City",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/679.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 11 Apr 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "49f7c975-82e7-45e9-96ad-e3c47ee48dbf",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-manchester-city-english-premier-league-2026-04-11",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "4UUEOLKt6ufBHwpL53SQHI",
+            "optaId": "2562217",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Manchester United",
+                "clubShortName": "Man Utd",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/680.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 18 Apr 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "8dc6ed0b-5a6f-4a07-aa45-8f5bc6b97001",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-manchester-united-english-premier-league-2026-04-18",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "2IK4EG6HRKulsW6VCgndWL",
+            "optaId": "2562227",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Brighton & Hove Albion",
+                "clubShortName": "Brighton",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/618.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "American Express Stadium",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 25 Apr 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "1af6013e-5d41-435b-9a7b-68a05e952768",
+                "title": "Match Centre",
+                "url": "/en/match/brighton-and-hove-albion-vs-chelsea-english-premier-league-2026-04-25",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      },
+      {
+        "id": "1ebb2451-706c-44b6-ac3c-1cdddf47a87e",
+        "month": 5,
+        "year": 2026,
+        "monthName": "May",
+        "items": [
+          {
+            "id": "6oWPaWaoxXOhTTcKf9WCJ1",
+            "optaId": "2562239",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Nottingham Forest",
+                "clubShortName": "Nott'm Forest",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/17.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 02 May 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "758066ee-1ee6-4065-8529-ffad51eddaa6",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-nottingham-forest-english-premier-league-2026-05-02",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "6KhrwTp6OBHIPLW0PdXoRh",
+            "optaId": "2562249",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Liverpool",
+                "clubShortName": "Liverpool",
+                "clubCrestUrl": "https://img.chelseafc.com/image/upload/v1730218742/editorial/opposition%20club%20badges/Liverpool_badge_2024-25_square_2_500x500.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Anfield",
+            "competition": "Premier League",
+            "kickoffDate": "Sat 09 May 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "825ef320-b52f-4ec0-b0d7-548778529b58",
+                "title": "Match Centre",
+                "url": "/en/match/liverpool-vs-chelsea-english-premier-league-2026-05-09",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "3lVAvXztcMM23OdFMWw5rd",
+            "optaId": "2562259",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": true,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Tottenham Hotspur",
+                "clubShortName": "Tottenham",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/728.png",
+                "score": 0
+              },
+              "kickoffTime": "15:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stamford Bridge",
+            "competition": "Premier League",
+            "kickoffDate": "Sun 17 May 2026",
+            "kickoffTime": "15:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "c77c6e64-d368-42c0-9e6a-d0d73c1790a8",
+                "title": "Match Centre",
+                "url": "/en/match/chelsea-vs-tottenham-hotspur-english-premier-league-2026-05-17",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          },
+          {
+            "id": "6p4rxjn0pzhdt1Rja9Uiiq",
+            "optaId": "2562272",
+            "isResult": false,
+            "matchUp": {
+              "isResult": false,
+              "isLive": false,
+              "isHomeFixture": false,
+              "status": "PreMatch",
+              "home": {
+                "clubName": "Sunderland",
+                "clubShortName": "Sunderland",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/722.png",
+                "score": 0
+              },
+              "away": {
+                "clubName": "Chelsea",
+                "clubShortName": "Chelsea",
+                "clubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/630.png",
+                "score": 0
+              },
+              "kickoffTime": "16:00",
+              "tbc": true,
+              "postponed": false
+            },
+            "venue": "Stadium of Light",
+            "competition": "Premier League",
+            "kickoffDate": "Sun 24 May 2026",
+            "kickoffTime": "16:00",
+            "isLive": false,
+            "status": "PreMatch",
+            "tbc": true,
+            "postponed": false,
+            "ctas": {
+              "matchCentreLink": {
+                "id": "b8884957-7ba2-48eb-8bfc-b43f3231aaac",
+                "title": "Match Centre",
+                "url": "/en/match/sunderland-vs-chelsea-english-premier-league-2026-05-24",
+                "isExternal": false,
+                "isActive": false
+              }
+            },
+            "labels": {
+              "abandonedLabel": "fixture.abandonedLabel",
+              "postponedLabel": "Postponed",
+              "canceledLabel": "Cancelled",
+              "tbcLabel": "TBC"
+            },
+            "liveStreamStatus": "NotApplicable",
+            "liveStreamAccess": "Open",
+            "liveStreamAvailableOnWeb": true
+          }
+        ]
+      }
+    ],
+    "competitions": [
+      {
+        "displayText": "All Competitions",
+        "selectedValue": true
+      },
+      {
+        "displayText": "Premier League",
+        "value": "4ovcp9JVyWP9eQ2XXaWywV",
+        "selectedValue": false
+      }
+    ]
+  }
+}
